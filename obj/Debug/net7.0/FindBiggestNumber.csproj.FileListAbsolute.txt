@@ -1,0 +1,14 @@
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\bin\Debug\net7.0\FindBiggestNumber.exe
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\bin\Debug\net7.0\FindBiggestNumber.deps.json
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\bin\Debug\net7.0\FindBiggestNumber.runtimeconfig.json
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\bin\Debug\net7.0\FindBiggestNumber.dll
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\bin\Debug\net7.0\FindBiggestNumber.pdb
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.AssemblyInfoInputs.cache
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.AssemblyInfo.cs
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.dll
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\obj\Debug\net7.0\refint\FindBiggestNumber.dll
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.pdb
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.genruntimeconfig.cache
+C:\Users\Simbonile Matshaya\source\repos\FindBiggestNumber\obj\Debug\net7.0\ref\FindBiggestNumber.dll
